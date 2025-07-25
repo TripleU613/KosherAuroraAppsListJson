@@ -9,13 +9,13 @@
         "org.sefaria.sefaria",
         "com.torahanytime.betaapp",
         "oyw.tnc"
-        ddddd
       ]
     },
     {
       "title": "Jewish Life & Media",
       "packages": [
         "app.tfs.prod",
+        "app.tfs.music",
         "com.rocketouch.CRCKosher2013",
         "com.brochos.jstream",
         "org.ou.kosherproducts",
