@@ -1,6 +1,20 @@
 {
   "categories": [
     {
+      "title": "Email Clients",
+      "packages": [
+       "com.microsoft.office.outlook",
+       "com.google.android.gm",
+       "org.mozilla.thunderbird"
+      ]
+    },
+    {
+      "title": "Authenticators",
+      "packages": [
+        "com.authy.authy"
+      ]
+    },
+    {
       "title": "Jewish Learning & Texts",
       "packages": [
         "com.ou.alldaf",
@@ -65,7 +79,9 @@
         "com.hertz.android.digital",
         "me.lyft.android",
         "com.ubercab",
-        "com.waze"
+        "com.waze",
+        "com.google.android.apps.maps",
+        "com.google.android.projection.gearhead"
       ]
     },
     {
@@ -73,7 +89,8 @@
       "packages": [
         "com.dd.doordash",
         "com.thehomedepot",
-        "com.ubercab.eats"
+        "com.ubercab.eats",
+        "com.postmates.android"
       ]
     },
     {
