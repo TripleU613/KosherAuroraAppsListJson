@@ -99,8 +99,6 @@
       "title": "General Utilities",
       "packages": [
         "com.radiocom",
-        "bin.mt.plus",
-        "com.reqable.android",
         "com.usmobile.dashboard",
         "com.weawow",
         "com.lionscribe.hebdate",
