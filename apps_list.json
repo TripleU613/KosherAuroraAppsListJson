@@ -109,7 +109,16 @@
     {
       "title": "Banks & Finance",
       "packages": [
-        "com.chase.sig.android"
+        "com.chase.sig.android",
+        "it.cardright",
+        "com konylabs.capitalone",
+        "com.americanexpress.android.acctsvcs.us",
+        "com.tdbank",
+        "com.paypal.android.p2pmobile",
+        "com.paypal.merchant.client",
+        "com.discoverfinancial.mobile",
+        "com.fidelity.android",
+        "com.citi.citimobile"
       ]
     }
   ]
