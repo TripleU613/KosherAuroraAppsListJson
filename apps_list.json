@@ -92,6 +92,9 @@
     {
       "title": "Banks & Finance",
       "packages": [
-        "com.chase.sig.android
+        "com.chase.sig.android",
+        "it.cardright",
+        "com konylabs.capitalone"
+        
       ]
 }
