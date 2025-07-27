@@ -3,9 +3,9 @@
     {
       "title": "Email Clients",
       "packages": [
-       "com.microsoft.office.outlook",
-       "com.google.android.gm",
-       "org.mozilla.thunderbird"
+        "com.microsoft.office.outlook",
+        "com.google.android.gm",
+        "org.mozilla.thunderbird"
       ]
     },
     {
@@ -106,11 +106,11 @@
         "com.jtech.forums"
       ]
     },
-{
-  "title": "Banks & Finance",
-  "packages": [
-    "com.chase.sig.android"
+    {
+      "title": "Banks & Finance",
+      "packages": [
+        "com.chase.sig.android"
+      ]
+    }
   ]
-}
-]
 }
