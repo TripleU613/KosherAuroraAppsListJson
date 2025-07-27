@@ -105,6 +105,10 @@
         "com.lionscribe.hebdate",
         "com.jtech.forums"
       ]
-    }
-  ]
+    },
+    {
+      "title": "Banks & Finance",
+      "packages": [
+        "com.chase.sig.android
+      ]
 }
