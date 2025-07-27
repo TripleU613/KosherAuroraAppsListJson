@@ -56,6 +56,9 @@ Want to help maintain or suggest apps? It's easy:
 
 All pull requests will be reviewed for suitability.
 
+Feel like this is too advanced for you? It isn't. Check this guide out on how to contribute:
+https://forums.jtechforums.org/t/guide-how-to-contribute-to-tripleus-kosher-aurora-store/3890
+
 ---
 
 ## 🧾 JSON Format
