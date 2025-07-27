@@ -11,7 +11,8 @@
     {
       "title": "Authenticators",
       "packages": [
-        "com.authy.authy"
+        "com.authy.authy",
+        "com.google.android.apps.authenticator2"
       ]
     },
     {
