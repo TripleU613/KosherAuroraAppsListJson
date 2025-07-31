@@ -118,8 +118,8 @@
         "com.paypal.merchant.client",
         "com.discoverfinancial.mobile",
         "com.fidelity.android",
-        "com.citi.citimobile"
-        "com.konylabs.capitalone",
+        "com.citi.citimobile",
+        "com.konylabs.capitalone"
       ]
     }
   ]
